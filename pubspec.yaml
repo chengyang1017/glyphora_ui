@@ -1,0 +1,21 @@
+name: glyphora_ui
+description: A reusable Flutter UI component library for dialogs, forms, layouts, buttons, and common states.
+version: 0.1.0
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nestless_flutter:
+    path: ../nestless_flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
