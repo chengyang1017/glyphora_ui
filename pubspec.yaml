@@ -12,7 +12,7 @@ dependencies:
   nestless_flutter:
     git:
       url: https://github.com/chengyang1017/nestless.git
-      ref: main
+      ref: 7ce8913bcaff1e1dcd5c5139a60fd9b579cc900b
 
 dev_dependencies:
   flutter_test:
