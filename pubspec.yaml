@@ -10,7 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   nestless_flutter:
-    path: ../nestless_flutter
+    git:
+      url: https://github.com/chengyang1017/nestless.git
+      ref: main
 
 dev_dependencies:
   flutter_test:
